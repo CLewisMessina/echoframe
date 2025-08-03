@@ -1,0 +1,42 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+ENV/
+venv/
+
+# IDEs/editors
+.vscode/
+.idea/
+*.swp
+
+# Logs & cache
+*.log
+*.tmp
+*.bak
+*.cache/
+*.db
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# PyInstaller artifacts
+dist/
+build/
+*.spec
+
+# User-specific EchoFrame data (optional — see below)
+# Uncomment if you want to exclude live journals/DNA/config
+# .echoframe/
+# ~/.echoframe/
+
+# Notebooks (if added later)
+*.ipynb_checkpoints
+
+# VS Code settings (if shared intentionally)
+# !.vscode/settings.json
