@@ -9,6 +9,9 @@ env/
 ENV/
 venv/
 
+# Config
+.env
+
 # IDEs/editors
 .vscode/
 .idea/
@@ -40,3 +43,4 @@ build/
 
 # VS Code settings (if shared intentionally)
 # !.vscode/settings.json
+
